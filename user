@@ -1,0 +1,1 @@
+@修改sql表名：alert table ‘数据库’.'老表名' rename to 新表名 
